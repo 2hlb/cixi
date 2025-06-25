@@ -8,7 +8,7 @@ setup(
     description="💮 豁免川普税的终极方案 - The ultimate solution to exempt Trump tariffs",
     long_description=open("README.md", "r", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/cixi",
+    url="https://github.com/2hlb/cixi",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
